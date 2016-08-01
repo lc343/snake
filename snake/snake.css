@@ -1,0 +1,38 @@
+#snakeMap{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
+.snakeBody{
+    background-image: url(image/snake2.jpg);
+    background-repeat: no-repeat;
+}
+
+.grid{
+    width: 100%;
+    height: 100%;
+    border: 2px solid #000;
+    border-spacing: 0;
+}
+.foodDot{
+    background-image: url("image/apple.jpg");
+    background-repeat: no-repeat;
+}
+
+
+.snakeHeadl{
+    background-image:url("image/snakel.jpg");
+    background-repeat: no-repeat;
+}
+.snakeHeadu{
+    background-image:url("image/snakeu.jpg");
+    background-repeat: no-repeat;
+}
+.snakeHeadr{
+    background-image:url("image/snaker.jpg");
+    background-repeat: no-repeat;
+}
+.snakeHeadd{
+    background-image:url("image/snaked.jpg");
+    background-repeat: no-repeat;
+}
